@@ -1,1 +1,1 @@
-Estructura de xarpetas y archivos base para hacer una web con Bootstrap 5
+Estructura de carpetas y archivos base para hacer una web con Bootstrap 5
